@@ -1,4 +1,12 @@
 from stock import Stock
 
-stock = Stock()
-stock.add_stock()
+
+def Program():
+    def add():
+        stock = Stock()
+        stock.add_stock()
+    add()
+    add()
+
+
+Program()
