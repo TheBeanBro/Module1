@@ -1,6 +1,6 @@
 # Module1
 Module 1 for school
-# PROJ: 1
+/PROJ: 1
 "A program a business can use to add remove and allocate stock"
 
 # Done: 
