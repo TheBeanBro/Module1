@@ -1,1 +1,1 @@
-Most of Module 1's progrma is finished
+Most of Module 1's program is finished
